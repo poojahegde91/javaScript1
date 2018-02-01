@@ -1,0 +1,17 @@
+{
+  "name": "handsonsolution",
+  "version": "1.0.0",
+  "description": "Handson week 1 with Solution and Test Cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true",
+    "start": "node index"
+  },
+  "author": "Nidhi Gupta",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
